@@ -1,7 +1,7 @@
 # forkify Project
 
 Recipe application with custom recipe uploads
-## check this out here =>> 
+check this out here =>> 
 
-forkify-ml-app.netlify.app
+#forkify-ml-app.netlify.app
 
